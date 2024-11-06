@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@types/npmcli__arborist": "^5.6.11"
+    "@types/npmcli__arborist": "^5.6.11",
+    "jsonpickle": "^1.1.2"
   }
 }
