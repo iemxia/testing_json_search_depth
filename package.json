@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "@types/npmcli__arborist": "^5.6.11",
-    "arborist": "^0.1.0",
     "tough-cookie": "^5.0.0"
   }
 }
